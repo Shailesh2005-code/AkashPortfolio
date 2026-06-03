@@ -72,14 +72,7 @@ const Hero = () => {
 
         </div>
 
-        {/* FLOATING DECOR */}
-<div className="absolute right-[200px] top-[170px] z-20">
-  <img
-    src={decor}
-    alt="decor"
-    className="w-[95px] object-contain rotate-[10deg]"
-  />
-</div>
+       
 
         {/* GLASS BAR */}
         <div

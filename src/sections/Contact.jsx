@@ -112,7 +112,7 @@ function Contact() {
                 transition-all
               "
             >
-              7780615170
+             +91 7780615170
             </a>
 
           </div>
@@ -130,7 +130,7 @@ function Contact() {
             />
 
             <a
-              href="mailto:akashguntamukka11@gmail.com"
+              href="mailto:akashguntamukkala11@gmail.com"
               className="
                 text-[24px]
                 text-black
@@ -138,7 +138,7 @@ function Contact() {
                 transition-all
               "
             >
-              akashguntamukkal11@gmail.com
+              akashguntamukkala11@gmail.com
             </a>
 
           </div>
