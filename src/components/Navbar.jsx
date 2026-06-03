@@ -189,7 +189,7 @@ function Navbar() {
         {/* RIGHT GLASS BUTTON */}
 
         <a
-  href="mailto:akashguntamukkala111@gmail.com"
+  href="mailto:akashguntamukkala11@gmail.com"
   className="
     relative
     overflow-hidden
