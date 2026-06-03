@@ -130,7 +130,7 @@ function Contact() {
             />
 
             <a
-              href="mailto:akashguntamukkal11@gmail.com"
+              href="mailto:akashguntamukka11@gmail.com"
               className="
                 text-[24px]
                 text-black
