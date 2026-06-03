@@ -6,13 +6,13 @@ import thumb3 from "../assets/Projects/Thumbnails/3.jpeg";
 
 import ad1 from "../assets/Projects/Ad Creatives/1.webp";
 import ad2 from "../assets/Projects/Ad Creatives/2.webp";
-import ad3 from "../assets/projects/AD Creatives/3.webp"
-import ad4 from "../assets/projects/AD Creatives/4.jpg"
-import ad5 from "../assets/projects/AD Creatives/5.jpg"
-import ad6 from "../assets/projects/AD Creatives/6.jpg"
-import ad7 from "../assets/projects/AD Creatives/7.png"
-import ad8 from "../assets/projects/AD Creatives/8.jpg"
-import ad9 from "../assets/projects/AD Creatives/9.png"
+import ad3 from "../assets/projects/Ad Creatives/3.webp"
+import ad4 from "../assets/projects/Ad Creatives/4.jpg"
+import ad5 from "../assets/projects/Ad Creatives/5.jpg"
+import ad6 from "../assets/projects/Ad Creatives/6.jpg"
+import ad7 from "../assets/projects/Ad Creatives/7.png"
+import ad8 from "../assets/projects/Ad Creatives/8.jpg"
+import ad9 from "../assets/projects/Ad Creatives/9.png"
 
 import logo1 from "../assets/projects/logos/1.webp"
 import logo2 from "../assets/projects/logos/2.jpg"
