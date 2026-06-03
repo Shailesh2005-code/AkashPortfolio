@@ -1,11 +1,11 @@
 import { useState } from "react"
 
-import thumb1 from "../assets/projects/thumbnails/1.jpeg"
-import thumb2 from "../assets/projects/thumbnails/2.jpeg"
-import thumb3 from "../assets/projects/thumbnails/3.jpeg"
+import thumb1 from "../assets/Projects/Thumbnails/1.jpeg";
+import thumb2 from "../assets/Projects/Thumbnails/2.jpeg";
+import thumb3 from "../assets/Projects/Thumbnails/3.jpeg";
 
-import ad1 from "../assets/projects/AD Creatives/1.webp"
-import ad2 from "../assets/projects/AD Creatives/2.webp"
+import ad1 from "../assets/Projects/Ad Creatives/1.webp";
+import ad2 from "../assets/Projects/Ad Creatives/2.webp";
 import ad3 from "../assets/projects/AD Creatives/3.webp"
 import ad4 from "../assets/projects/AD Creatives/4.jpg"
 import ad5 from "../assets/projects/AD Creatives/5.jpg"
